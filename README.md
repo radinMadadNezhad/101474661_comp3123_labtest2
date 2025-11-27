@@ -77,3 +77,5 @@ README.md
     npm start
 ## Screenshot: 
 ![alt text](image.png)
+![home](home.png)
+![after searching](search.png)
